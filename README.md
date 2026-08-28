@@ -4,11 +4,15 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
+
 ###
+
 
 <h1 align="center">Привет👋 Меня зовут Даниил Хлебников!</h1>
 
+
 ###
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Профессия-Web%20Developer-00ffff?style=for-the-badge&logo=code&logoColor=white" height="30" alt="profession"/>
@@ -16,7 +20,9 @@
   <img src="https://img.shields.io/badge/Активность-Высокая-ff6b6b?style=for-the-badge&logo=zap&logoColor=white" height="30" alt="activity"/>
 </div>
 
+
 ###
+
 
 <div align="center">
   <a href="https://github.com/danya120o3" target="_blank">
@@ -33,7 +39,9 @@
   </a>
 </div>
 
+
 ###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danya120o3.danya120o3&color=00ffff"  />
@@ -41,15 +49,20 @@
   <img src="https://img.shields.io/github/stars/danya120o3?style=flat&color=ff6b6b&label=Звёзды" />
 </div>
 
+
 ###
+
 
 <h3 align="left">👨‍💻 Обо мне</h3>
 
+
 ###
+
 
 <p align="left">Привет! Я <b>Даниил Хлебников</b> — начинающий web-разработчик с увлечением к созданию красивых и функциональных веб-приложений! 🚀<br><br>
 Мой путь в IT начался со школьного увлечения <b>компьютерной графикой</b> в GIMP. Позже я поступил в <b>колледж по специальности «Программирование»</b>, где углубил свои знания и навыки.<br><br>
 Сейчас я сосредоточен на <b>веб-разработке</b> и создании интерактивных интерфейсов. Я объединяю творческий подход дизайнера с технической точностью разработчика.<br><br>
+
 
 - 🎓 Студент колледжа, специальность «Программирование»<br>
 - 🎨 Цифровой художник в GIMP с опытом создания UI/UX элементов<br>
@@ -57,11 +70,15 @@
 - 📱 Создаю адаптивные, красивые веб-приложения<br>
 - 🌟 Активно ищу позицию Junior Web-разработчика или стажировку</p>
 
+
 ###
+
 
 <h3 align="left">📚 Мои проекты</h3>
 
+
 ###
+
 
 <div align="left">
   <details open>
@@ -99,11 +116,15 @@
   </details>
 </div>
 
+
 ###
+
 
 <h3 align="left">🛠 Мой технологический стек:</h3>
 
+
 ###
+
 
 <div align="left">
   <h4>Frontend</h4>
@@ -132,36 +153,71 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
 </div>
 
+
 ###
+
 
 <h3 align="left">🔥 Моя статистика:</h3>
 
+
 ###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danya120o3&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=8&background=1a1a2e&ring=00ffff&fire=00ff88&currStreakLabel=00ffff&sideLabels=e0e0e0&currStreakNum=00ff88" height="230" alt="streak graph"  />
 </div>
 
+
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danya120o3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=ru&hide_border=false&bg_color=1a1a2e&title_color=00ffff&text_color=e0e0e0&icon_color=00ff88&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danya120o3&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&bg_color=1a1a2e&title_color=00ffff&text_color=e0e0e0&order=2" height="170" alt="languages graph"  />
 </div>
 
+
 ###
+
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danya120o3&bg_color=1a1a2e&color=00ffff&line=00ff88&point=ffffff&area=true&area_color=00d4ff&hide_border=true&locale=ru" alt="activity graph"  />
 </div>
 
+
 ###
+
+
+<h3 align="left">🐍 Змейка коммитов:</h3>
+
+
+###
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danya120o3/danya120o3/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danya120o3/danya120o3/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" width="100%"/>
+</picture>
+
+💡 *Змейка ползает по моему графу коммитов и съедает их! Запущу workflow «Generate Snake» — и она будет обновляться каждый день.*
+
+</div>
+
+
+###
+
 
 <h3 align="left">✨ Ключевые навыки:</h3>
 
+
 ###
 
+
 <div align="left">
+
 
 ```
 ✅ HTML5, CSS3, JavaScript                    ✅ Python, C#, SQL
@@ -173,17 +229,24 @@
 ✅ Canvas API и игровая разработка            ✅ Работа с 2D графикой
 ```
 
+
 </div>
 
+
 ###
+
 
 <h3 align="left">🌐 Мои веб-инструменты и ресурсы:</h3>
 
+
 ###
+
 
 <div align="left">
 
+
 Я использую и рекомендую бесплатные веб-инструменты от **freewebtools.com** для ускорения разработки:
+
 
 | Инструмент | Назначение |
 |:---|:---|
@@ -196,82 +259,113 @@
 | 🌐 **Regex Tester** | Тестирование регулярных выражений |
 | ⚡ **Minifier** | Минификация CSS, JS и HTML |
 
+
 👉 **[Посетить все инструменты](https://www.freewebtools.com/tools/)**
+
 
 </div>
 
+
 ###
+
 
 <h3 align="left">🎯 Мой путь в IT:</h3>
 
+
 ###
 
+
 <div align="left">
+
 
 <table>
 <tr>
 <td width="33%" align="center">
 
+
 <h4>🎨 Начало</h4>
 <p>Школьная графика в GIMP. Открыл для себя мир цифрового творчества и дизайна.</p>
 
+
 </td>
 <td width="33%" align="center">
+
 
 <h4>🎓 Обучение</h4>
 <p>Колледж по специальности «Программирование». Углубил знания в разработке и веб-технологиях.</p>
 
+
 </td>
 <td width="33%" align="center">
 
+
 <h4>💻 Проекты</h4>
 <p>Создание реальных веб-приложений: фотостудия, банковское приложение с графиками, игры.</p>
+
 
 </td>
 </tr>
 </table>
 
+
 </div>
 
+
 ###
+
 
 <h3 align="left">🚀 Портфолио и ссылки:</h3>
 
+
 ###
 
+
 <div align="center">
+
 
 **[🌐 Интерактивное портфолио](https://danya120o3.github.io/danya120o3/)** • **[⚡ Веб-инструменты](https://danya120o3.github.io/danya120o3/tools.html)** • **[🐍 Игра Змейка](https://danya120o3.github.io/danya120o3/snake.html)**
 
+
 </div>
 
+
 ###
+
 
 <h3 align="left">📞 Как со мной связаться:</h3>
 
+
 ###
 
+
 <div align="center">
+
 
 📧 **Email:** hlebnikovdanya2006@gmail.com
 
+
 💬 **Telegram:** [@tehnomaniak07](https://t.me/tehnomaniak07)
+
 
 🔗 **GitHub:** [@danya120o3](https://github.com/danya120o3)
 
+
 🟢 **Статус:** Активно ищу позицию Junior Web-разработчика или стажировку!
+
 
 </div>
 
+
 ###
+
 
 <div align="center">
 
+
 <img src="https://img.shields.io/badge/Спасибо%20за%20внимание!-⭐-ffff00?style=flat" />
+
 
 **Давайте создавать красивые веб-приложения вместе! 🌟**
 
+
 </div>
-
-
-###
