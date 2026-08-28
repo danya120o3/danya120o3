@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Веб-инструменты - Даниил Хлебников</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            color: #e0e0e0;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(180deg, rgba(23, 33, 62, 0.95), rgba(15, 52, 96, 0.9));
+            border-bottom: 3px solid #00ffff;
+            box-shadow: 0 8px 32px rgba(0, 255, 255, 0.2);
+        }
+
+        h1 {
+            font-size: 2.5em;
+            background: linear-gradient(135deg, #00ffff, #00ff88);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .tool-card {
+            background: linear-gradient(135deg, rgba(35, 47, 76, 0.9), rgba(25, 37, 66, 0.9));
+            border-radius: 15px;
+            padding: 30px;
+            border: 2px solid #00ffff;
+            box-shadow: 0 8px 32px rgba(0, 255, 255, 0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                transform: translateY(50px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .tool-card:hover {
+            transform: translateY(-15px);
+            border-color: #ff6b6b;
+            box-shadow: 0 15px 40px rgba(255, 107, 107, 0.3);
+        }
+
+        .tool-icon {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+
+        .tool-card h2 {
+            color: #00ffff;
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        .tool-card p {
+            color: #b0b0b0;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            flex-grow: 1;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #00ffff, #00ff88);
+            color: #1a1a2e;
+            padding: 12px 24px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+            transition: all 0.3s ease;
+            font-size: 0.95em;
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(0, 255, 136, 0.3);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #00ffff;
+            border-top: 3px solid #00ffff;
+            margin-top: 60px;
+            background: rgba(23, 33, 62, 0.95);
+        }
+
+        .back-link {
+            display: inline-block;
+            color: #00ffff;
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .back-link:hover {
+            color: #00ff88;
+            transform: translateX(-5px);
+        }
+
+        .category {
+            margin-bottom: 50px;
+        }
+
+        .category h2 {
+            color: #00ff88;
+            font-size: 2em;
+            margin-bottom: 25px;
+            border-bottom: 3px solid #00ffff;
+            padding-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .tools-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .tool-card {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>⚡ ВЕБЛЕТНОБОРЫ</h1>
+        <p style="color: #00ffff; font-size: 1.1em;">Бесплатные инструменты для разработки и дизайна</p>
+    </header>
+
+    <div class="container">
+        <a href="index.html" class="back-link">← Вернуться на главную</a>
+
+        <!-- Utilities Category -->
+        <div class="category">
+            <h2>🔧 Утилиты</h2>
+            <div class="tools-grid">
+                <div class="tool-card">
+                    <div class="tool-icon">🎨</div>
+                    <h2>Color Picker</h2>
+                    <p>Инструмент для подбора и анализа цветов. Удобно использовать для выбора палитры для вашего проекта.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">📐</div>
+                    <h2>CSS Generator</h2>
+                    <p>Автоматический генератор CSS кода для теней, градиентов, анимаций и других стилей.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">🎯</div>
+                    <h2>Unit Converter</h2>
+                    <p>Конвертер единиц измерения: пиксели, проценты, Em, Rem, Px, Vw и другие.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Image Tools Category -->
+        <div class="category">
+            <h2>🖼️ Работа с изображениями</h2>
+            <div class="tools-grid">
+                <div class="tool-card">
+                    <div class="tool-icon">🖼️</div>
+                    <h2>Image Optimizer</h2>
+                    <p>Оптимизация изображений для веба: сжатие, изменение размера, смена формата.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">📏</div>
+                    <h2>Image Resize</h2>
+                    <p>Быстрое изменение размера изображений в различные разрешения и форматы.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">🔄</div>
+                    <h2>Image Converter</h2>
+                    <p>Конвертирование изображений между форматами: JPG, PNG, WebP, GIF и другие.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Text Tools Category -->
+        <div class="category">
+            <h2>📝 Текстовые инструменты</h2>
+            <div class="tools-grid">
+                <div class="tool-card">
+                    <div class="tool-icon">📝</div>
+                    <h2>Text Tools</h2>
+                    <p>Набор инструментов для работы с текстом: подсчёт символов, удаление пробелов, смена регистра.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">🔐</div>
+                    <h2>Password Generator</h2>
+                    <p>Генератор надёжных паролей с настройкой сложности и длины.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">🔤</div>
+                    <h2>Lorem Ipsum</h2>
+                    <p>Генератор пробного текста Lorem Ipsum для макетов и дизайнов.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Code Tools Category -->
+        <div class="category">
+            <h2>💻 Инструменты для кода</h2>
+            <div class="tools-grid">
+                <div class="tool-card">
+                    <div class="tool-icon">📊</div>
+                    <h2>JSON Formatter</h2>
+                    <p>Форматирование и валидация JSON кода с выделением синтаксиса.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">🌐</div>
+                    <h2>Regex Tester</h2>
+                    <p>Тестирование регулярных выражений с поддержкой различных флагов и примеров.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">⚡</div>
+                    <h2>Minifier</h2>
+                    <p>Минификация CSS, JavaScript и HTML кода для оптимизации размера файлов.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Web Tools Category -->
+        <div class="category">
+            <h2>🌍 Веб-инструменты</h2>
+            <div class="tools-grid">
+                <div class="tool-card">
+                    <div class="tool-icon">🌐</div>
+                    <h2>URL Encoder</h2>
+                    <p>Кодирование и декодирование URL адресов для безопасной передачи данных.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">📡</div>
+                    <h2>IP Lookup</h2>
+                    <p>Определение информации об IP адресе: расположение, провайдер, и другие данные.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+
+                <div class="tool-card">
+                    <div class="tool-icon">🔐</div>
+                    <h2>Hash Generator</h2>
+                    <p>Генерирование хешей MD5, SHA-1, SHA-256 и других алгоритмов.</p>
+                    <a href="https://www.freewebtools.com/tools/" target="_blank" class="btn">Открыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>📌 Все инструменты расположены на <strong>freewebtools.com</strong></p>
+        <p style="margin-top: 20px; color: #00ff88;">Используйте эти инструменты для ускорения разработки! 🚀</p>
+        <p style="margin-top: 15px; font-size: 0.9em; color: #808080;">
+            © 2026 Даниил Хлебников
+        </p>
+    </footer>
+</body>
+</html>
