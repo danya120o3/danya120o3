@@ -188,28 +188,6 @@
 ###
 
 
-<h3 align="left">🐍 Змейка коммитов:</h3>
-
-
-###
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danya120o3/danya120o3/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danya120o3/danya120o3/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" width="100%"/>
-</picture>
-
-💡 *Змейка ползает по моему графу коммитов и съедает их! Запущу workflow «Generate Snake» — и она будет обновляться каждый день.*
-
-</div>
-
-
-###
-
-
 <h3 align="left">✨ Ключевые навыки:</h3>
 
 
@@ -369,3 +347,8 @@
 
 
 </div>
+
+
+
+
+###
