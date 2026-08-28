@@ -85,6 +85,18 @@
     <img src="https://img.shields.io/badge/Charts.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   </details>
+  <br>
+  <details open>
+    <summary><b>🐍 Фиолетовая Змейка - Интерактивная игра</b></summary>
+    <br>
+    Интерактивная игра где фиолетовая змейка ползает и ест зелёные квадратики!
+    <br><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canvas-FFA500?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <br><br>
+    👉 <a href="https://danya120o3.github.io/danya120o3/snake.html"><b>🎮 ИГРАТЬ ПРЯМО СЕЙЧАС!</b></a>
+  </details>
 </div>
 
 ###
@@ -158,6 +170,7 @@
    интерфейсов (UI/UX)
 ✅ Плавные CSS анимации и переходы            ✅ GIMP — цифровой художник
 ✅ Интерактивные веб-приложения               ✅ Быстрое обучение новым технологиям
+✅ Canvas API и игровая разработка            ✅ Работа с 2D графикой
 ```
 
 </div>
@@ -212,7 +225,7 @@
 <td width="33%" align="center">
 
 <h4>💻 Проекты</h4>
-<p>Создание реальных веб-приложений: фотостудия, банковское приложение с графиками.</p>
+<p>Создание реальных веб-приложений: фотостудия, банковское приложение с графиками, игры.</p>
 
 </td>
 </tr>
@@ -228,7 +241,7 @@
 
 <div align="center">
 
-**[Посмотреть интерактивное портфолио](https://danya120o3.github.io/danya120o3/)** • **[Веб-инструменты](https://danya120o3.github.io/danya120o3/tools.html)**
+**[🌐 Интерактивное портфолио](https://danya120o3.github.io/danya120o3/)** • **[⚡ Веб-инструменты](https://danya120o3.github.io/danya120o3/tools.html)** • **[🐍 Игра Змейка](https://danya120o3.github.io/danya120o3/snake.html)**
 
 </div>
 
