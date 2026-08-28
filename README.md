@@ -1,272 +1,263 @@
-<!-- ═══════════════ ШАПКА ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:00ff88,100:00d4ff&height=230&section=header&text=Привет!%20Я%20Даниил&fontSize=70&fontColor=ffffff" alt="header"/>
+<br clear="both">
 
 <div align="center">
-
-<!-- ═══════════════ СЧЁТЧИКИ ═══════════════ -->
-<img src="https://komarev.com/ghpvc/?username=danya120o3&style=for-the-badge&color=00ffff" alt="Просмотры профиля"/>
-<img src="https://img.shields.io/github/followers/danya120o3?style=for-the-badge&color=00ff88&label=ПОДПИСЧИКИ" alt="Подписчики"/>
-<img src="https://img.shields.io/github/stars/danya120o3?style=for-the-badge&color=ff6b6b&label=ЗВЁЗДЫ" alt="Звёзды"/>
-
-<br><br>
-
-### 🚀 ДАНИИЛ ХЛЕБНИКОВ
-### Начинающий Web-разработчик | Ищу Junior позицию 📮
-
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
----
+###
 
-## 🧑‍💻 Обо мне
+<h1 align="center">Привет👋 Меня зовут Даниил Хлебников!</h1>
 
-```yaml
-name: Даниил Хлебников
-role: Начинающий Web-разработчик
-education: Колледж · специальность «Программирование»
-stack:
-  - Frontend: HTML5 · CSS3 · JavaScript
-  - Backend: Python · C# · SQL
-  - Tools: Git · Figma · GIMP
-projects:
-  - Сайт фотостудии 📷
-  - Банковское приложение с графиками 🏦
-graphics: GIMP — цифровой художник 🎨
-current_focus: Веб-разработка
-status: ✅ Открыт для предложений
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Профессия-Web%20Developer-00ffff?style=for-the-badge&logo=code&logoColor=white" height="30" alt="profession"/>
+  <img src="https://img.shields.io/badge/Статус-Junior%20%2B%20Стажировка-00ff88?style=for-the-badge&logo=target&logoColor=white" height="30" alt="status"/>
+  <img src="https://img.shields.io/badge/Активность-Высокая-ff6b6b?style=for-the-badge&logo=zap&logoColor=white" height="30" alt="activity"/>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/danya120o3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github logo"  />
+  </a>
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
+  </a>
+  <a href="mailto:hlebnikovdanya2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://vk.ru/id591063025" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="vk logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danya120o3.danya120o3&color=00ffff"  />
+  <img src="https://img.shields.io/github/followers/danya120o3?style=flat&color=00ff88&label=Подписчики" />
+  <img src="https://img.shields.io/github/stars/danya120o3?style=flat&color=ff6b6b&label=Звёзды" />
+</div>
+
+###
+
+<h3 align="left">👨‍💻 Обо мне</h3>
+
+###
+
+<p align="left">Привет! Я <b>Даниил Хлебников</b> — начинающий web-разработчик с увлечением к созданию красивых и функциональных веб-приложений! 🚀<br><br>
+Мой путь в IT начался со школьного увлечения <b>компьютерной графикой</b> в GIMP. Позже я поступил в <b>колледж по специальности «Программирование»</b>, где углубил свои знания и навыки.<br><br>
+Сейчас я сосредоточен на <b>веб-разработке</b> и создании интерактивных интерфейсов. Я объединяю творческий подход дизайнера с технической точностью разработчика.<br><br>
+
+- 🎓 Студент колледжа, специальность «Программирование»<br>
+- 🎨 Цифровой художник в GIMP с опытом создания UI/UX элементов<br>
+- 💻 Разработчик с навыками Frontend и Backend<br>
+- 📱 Создаю адаптивные, красивые веб-приложения<br>
+- 🌟 Активно ищу позицию Junior Web-разработчика или стажировку</p>
+
+###
+
+<h3 align="left">📚 Мои проекты</h3>
+
+###
+
+<div align="left">
+  <details open>
+    <summary><b>📷 Сайт фотостудии</b></summary>
+    <br>
+    Красивый адаптивный веб-сайт с галереей, услугами и системой бронирования
+    <br><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  </details>
+  <br>
+  <details open>
+    <summary><b>🏦 Банковское приложение с графиками</b></summary>
+    <br>
+    Интерактивное приложение для управления счетами с визуализацией данных и аналитикой
+    <br><br>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Charts.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  </details>
+</div>
+
+###
+
+<h3 align="left">🛠 Мой технологический стек:</h3>
+
+###
+
+<div align="left">
+  <h4>Frontend</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  
+  <h4>Backend</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  
+  <h4>Tools & Design</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gimp" height="45" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 Моя статистика:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=danya120o3&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=8&background=1a1a2e&ring=00ffff&fire=00ff88&currStreakLabel=00ffff&sideLabels=e0e0e0&currStreakNum=00ff88" height="230" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danya120o3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=ru&hide_border=false&bg_color=1a1a2e&title_color=00ffff&text_color=e0e0e0&icon_color=00ff88&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danya120o3&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&bg_color=1a1a2e&title_color=00ffff&text_color=e0e0e0&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danya120o3&bg_color=1a1a2e&color=00ffff&line=00ff88&point=ffffff&area=true&area_color=00d4ff&hide_border=true&locale=ru" alt="activity graph"  />
+</div>
+
+###
+
+<h3 align="left">✨ Ключевые навыки:</h3>
+
+###
+
+<div align="left">
+
+```
+✅ HTML5, CSS3, JavaScript                    ✅ Python, C#, SQL
+✅ Адаптивный и отзывчивый дизайн            ✅ Git & GitHub
+✅ Создание красивых пользовательских         ✅ Figma & UI/UX проектирование
+   интерфейсов (UI/UX)
+✅ Плавные CSS анимации и переходы            ✅ GIMP — цифровой художник
+✅ Интерактивные веб-приложения               ✅ Быстрое обучение новым технологиям
 ```
 
-<div align="center">
+</div>
 
-✨ *Мой путь начался в школе, где я открыл для себя **компьютерную графику** и освоил **GIMP**. В колледже по специальности **«Программирование»** я углубил знания в разработке и создаю красивые, функциональные веб-приложения.*
+###
+
+<h3 align="left">🌐 Мои веб-инструменты и ресурсы:</h3>
+
+###
+
+<div align="left">
+
+Я использую и рекомендую бесплатные веб-инструменты от **freewebtools.com** для ускорения разработки:
+
+| Инструмент | Назначение |
+|:---|:---|
+| 🎨 **Color Picker** | Подбор и анализ цветов для проектов |
+| 📐 **CSS Generator** | Автоматическая генерация CSS кода |
+| 🖼️ **Image Optimizer** | Оптимизация изображений для веба |
+| 📝 **Text Tools** | Работа с текстом и обработка |
+| 🔐 **Password Generator** | Генерация надёжных паролей |
+| 📊 **JSON Formatter** | Форматирование и валидация JSON |
+| 🌐 **Regex Tester** | Тестирование регулярных выражений |
+| ⚡ **Minifier** | Минификация CSS, JS и HTML |
+
+👉 **[Посетить все инструменты](https://www.freewebtools.com/tools/)**
 
 </div>
 
-> 🎯 **Цель:** Получить позицию Junior Web-разработчика, где смогу применять свои навыки и расти как специалист.
+###
 
----
+<h3 align="left">🎯 Мой путь в IT:</h3>
 
-## 🛠 Технологии и уровень владения
+###
 
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,sql,git,github,figma,gimp,vscode&theme=dark&perline=11" alt="Tech Stack"/>
-</a>
-
-<br><br>
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-%2395316B.svg?style=for-the-badge&logo=gimp&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Мой путь к разработке
+<div align="left">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3 align="center">🎨 Школа</h3>
-
-Всё началось со школьного урока **компьютерной графики**. Знакомство с **GIMP** открыло мир цифрового творчества. Я создавал иконки, баннеры и графические элементы.
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">🎓 Колледж</h3>
-
-В колледже по специальности **«Программирование»** я углубил знания: языки программирования, **базы данных**, алгоритмы и веб-разработка. Получил фундаментальные навыки.
+<h4>🎨 Начало</h4>
+<p>Школьная графика в GIMP. Открыл для себя мир цифрового творчества и дизайна.</p>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3 align="center">💻 Проекты</h3>
+<h4>🎓 Обучение</h4>
+<p>Колледж по специальности «Программирование». Углубил знания в разработке и веб-технологиях.</p>
 
-Превратил знания в **реальные проекты**: от красивого лендинга фотостудии до **банковского приложения** с графиками и аналитикой.
+</td>
+<td width="33%" align="center">
+
+<h4>💻 Проекты</h4>
+<p>Создание реальных веб-приложений: фотостудия, банковское приложение с графиками.</p>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🚀 Мои проекты
+###
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h3 align="left">🚀 Портфолио и ссылки:</h3>
 
-### 📸 Сайт фотостудии
-
-Элегантный **веб-сайт фотостудии** с:
-- 🎨 Красивым адаптивным дизайном
-- 📷 Галереей работ и портфолио
-- 📅 Системой бронирования
-- ⚡ Плавными анимациями
-
-**Технологии:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Банковское приложение
-
-**Интерактивное банковское приложение** с:
-- 💳 Управлением счетами и картами
-- 📊 Красивыми информационными графиками
-- 💰 Историей транзакций
-- 🔒 Безопасными операциями
-
-**Технологии:**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎨 Дизайн и цифровое искусство
-
-Я работаю в **GIMP** как цифровой художник 🎨:
-- 🖌️ Создание иконок и интерфейсов
-- 🎭 Дизайн баннеров и графических элементов
-- 🌈 Цветокоррекция и обработка фотографий
-- 📐 UI/UX проектирование в Figma
-
----
-
-## ⚡ Веб-инструменты для разработки
+###
 
 <div align="center">
 
-Бесплатные инструменты от **freewebtools.com** для ускорения разработки:
-
-| 🎨 Color Picker | 📐 CSS Generator | 🖼️ Image Tools |
-|:---:|:---:|:---:|
-| Подбор цветов | Генерация CSS | Оптимизация и конверт |
-| [Открыть](https://www.freewebtools.com/tools/) | [Открыть](https://www.freewebtools.com/tools/) | [Открыть](https://www.freewebtools.com/tools/) |
-
-| 📝 Text Tools | 🔐 Password Gen | 📊 JSON Formatter |
-|:---:|:---:|:---:|
-| Работа с текстом | Генерация паролей | Форматирование JSON |
-| [Открыть](https://www.freewebtools.com/tools/) | [Открыть](https://www.freewebtools.com/tools/) | [Открыть](https://www.freewebtools.com/tools/) |
-
-| 🌐 Regex Tester | ⚡ Minifier | 🌍 URL Encoder |
-|:---:|:---:|:---:|
-| Регулярные выражения | Минификация кода | Кодирование URL |
-| [Открыть](https://www.freewebtools.com/tools/) | [Открыть](https://www.freewebtools.com/tools/) | [Открыть](https://www.freewebtools.com/tools/) |
+**[Посмотреть интерактивное портфолио](https://danya120o3.github.io/danya120o3/)** • **[Веб-инструменты](https://danya120o3.github.io/danya120o3/tools.html)**
 
 </div>
 
----
+###
 
-## 📊 Статистика GitHub
+<h3 align="left">📞 Как со мной связаться:</h3>
+
+###
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danya120o3&show_icons=true&locale=ru&hide_border=true&bg_color=1a1a2e&title_color=00ffff&icon_color=00ff88&text_color=e0e0e0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danya120o3&layout=compact&locale=ru&hide_border=true&bg_color=1a1a2e&title_color=00ffff&text_color=e0e0e0&langs_count=8"/>
+📧 **Email:** hlebnikovdanya2006@gmail.com
 
-<br><br>
+💬 **Telegram:** [@tehnomaniak07](https://t.me/tehnomaniak07)
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=danya120o3&bg_color=1a1a2e&color=00ffff&line=00ff88&point=ffffff&area=true&area_color=00d4ff&hide_border=true&locale=ru"/>
+🔗 **GitHub:** [@danya120o3](https://github.com/danya120o3)
+
+🟢 **Статус:** Активно ищу позицию Junior Web-разработчика или стажировку!
 
 </div>
 
----
-
-## 🏆 Достижения и навыки
+###
 
 <div align="center">
 
-```
-✅ Frontend разработка (HTML5, CSS3, JavaScript)
-✅ Backend разработка (Python, C#, SQL)
-✅ Адаптивный и отзывчивый дизайн
-✅ Создание красивых пользовательских интерфейсов
-✅ Работа с базами данных (SQL)
-✅ Версионирование кода (Git/GitHub)
-✅ Проектирование UI/UX в Figma
-✅ Цифровой дизайн и графика в GIMP
-✅ Плавные CSS анимации
-✅ Интерактивные веб-приложения
-```
+<img src="https://img.shields.io/badge/Спасибо%20за%20внимание!-⭐-ffff00?style=flat" />
+
+**Давайте создавать красивые веб-приложения вместе! 🌟**
 
 </div>
 
----
-
-## 🌐 Мой портфолио
-
-<div align="center">
-
-### 👉 [Посмотреть интерактивное портфолио](https://danya120o3.github.io/danya120o3/)
-
-### 👉 [Веб-инструменты и ресурсы](https://danya120o3.github.io/danya120o3/tools.html)
-
-</div>
-
----
-
-## 📬 Как со мной связаться
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-hlebnikovdanya2006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlebnikovdanya2006@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@tehnomaniak07-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tehnomaniak07)
-[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-id591063025-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/id591063025)
-[![Телефон](https://img.shields.io/badge/Телефон-8%20906%20697%2023%2087-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79066972387)
-
-<br><br>
-
-💬 **Всегда открыт к сотрудничеству, интересным проектам и новым знакомствам!**
-
-🟢 **СТАТУС:** Активно ищу позицию Junior Web-разработчика или стажировку
-
-</div>
-
----
-
-## 💪 Мотивация
-
-<div align="center">
-
-> *"Я верю, что каждый хороший код начинается с хорошего дизайна и внимания к деталям. Мой путь в веб-разработке — это сочетание творчества и технических знаний."*
-
-**🌟 Если мой профиль вам понравился, поставьте звезду! ⭐**
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Давайте создавать красивые и функциональные веб-приложения вместе! 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=danya120o3)
-
-</div>
-
-<!-- ═══════════════ ПОДВАЛ ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:00ffff&height=140&section=footer" alt="footer"/>
+###
